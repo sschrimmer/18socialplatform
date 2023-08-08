@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb://127.0.0.1:27017/twittleDB', {
+mongoose.connect('mongodb://127.0.0.1:27017/18socialplatform', {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
