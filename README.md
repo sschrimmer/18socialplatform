@@ -56,8 +56,6 @@ Use your browser or an app like [Insomnia](https://insomnia.rest/) to test the R
 
 ## Meta
 
-Tessa Starkweather – [LinkedIn](https://www.linkedin.com/in/tessa-starkweather-b61941200/) – tess.starkweather@gmail.com
-
 View my profile – [GitHub] https://github.com/sschrimmer
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
